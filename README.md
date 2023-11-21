@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 🌱 Currently learning AIGC (image generation, LLMs, voice cloning)
 - 📈 Trading options on Robinhood
 - 🎨 Learning to draw with drawing tablets
+  
 #RightToRepair #OpenSource #FreeSpeech
