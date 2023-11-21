@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- lanuage: 🇨🇳中文 🇺🇸English 🇯🇵日本語
+- 📫 Social: [Bilibili](space.bilibili.com/20052482)
+- 🔭 Currently working on Python Async programming
+- 🌱 Currently learning AIGC (image generation, LLMs, voice cloning)
+- 📈 Trading options on Robinhood
+- 🎨 Learning to draw with drawing tablets
+#RightToRepair #OpenSource #FreeSpeech
