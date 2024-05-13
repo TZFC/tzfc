@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 - lanuage: 🇨🇳中文 🇺🇸English 🇯🇵日本語
 - 📫 Social: Virtual Streamer on [Bilibili](space.bilibili.com/20052482)
-- 🔭 Currently working on Python Async programming
-- 🌱 Currently learning AIGC (image generation, LLMs, voice cloning)
+- 🌱 Intrested in AIGC (image generation, LLMs, voice cloning ...)
 - 📈 Trading options on Robinhood
-- 🎨 Learning to draw with drawing tablets
 - 🥽 VR enthusiast, learning 3D modeling
-  
-#RightToRepair #OpenSource #FreeSpeech
